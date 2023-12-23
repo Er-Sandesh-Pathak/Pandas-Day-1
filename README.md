@@ -1,2 +1,2 @@
-# Nepal Education EDA -2074 BS
- Visualization of 2074 education data
+# Pandas for Begineers
+ Learn to use pandas for data
